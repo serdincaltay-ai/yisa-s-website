@@ -1,0 +1,46 @@
+# Bağımlılıklar
+node_modules/
+.pnp
+.pnp.js
+
+# Build / Next
+.next/
+out/
+build/
+dist/
+
+# Ortam ve gizli dosyalar
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
+
+# Log ve önbellek
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.cache
+
+# IDE / editör
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Test / kapsam
+coverage/
+.nyc_output/
+
+# Geçici
+*.tmp
+*.temp
+.turbo
+.env.local.txt
+.env.local.txt 
+.env.local 
+.env 

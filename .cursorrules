@@ -1,0 +1,14 @@
+# YİSA-S Proje Kuralları
+
+## Dil — Zorunlu
+**Sayfada hiçbir şekilde İngilizce kullanılmayacak. Tüm kullanıcıya görünen metinler Türkçe olacak.**
+- Buton, etiket, placeholder, başlık, hata mesajı, başarı mesajı: Türkçe
+- Yeni bileşen ve sayfa eklerken sadece Türkçe metin kullan
+
+## Teknik
+- TypeScript, Next.js App Router
+- Tailwind CSS
+- Supabase (sql/YISA-S-FRANCHISE-TAM-SEMA.sql)
+
+## Referans
+- cursor-robot/CURSOR_TEK_PAKET.md, CURSOR_YAPISTIR_BLOKU.md

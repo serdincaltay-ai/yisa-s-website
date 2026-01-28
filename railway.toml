@@ -1,0 +1,10 @@
+# Railway — YİSA-S Next.js deploy
+# railway.app → New Project → Deploy from GitHub → bu repo
+
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "npm run start"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 10
